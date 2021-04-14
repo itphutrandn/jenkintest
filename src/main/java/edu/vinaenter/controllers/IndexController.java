@@ -13,7 +13,7 @@ import edu.vinaenter.models.News;
 @Controller
 public class IndexController {
 	
-	@RequestMapping(value = "/hello", method = RequestMethod.GET)
+	@RequestMapping(value = "/hello01", method = RequestMethod.GET)
 	public String index(Model  model) {
 		String username = "PhuT";
 		String fullName = "Phu Tran";

@@ -1,3 +1,6 @@
+edu\vinaenter\models\News.class
+edu\vinaenter\controllers\AdminNewsController.class
 edu\vinaenter\AppConfig.class
+edu\vinaenter\service\NewsService.class
 edu\vinaenter\controllers\IndexController.class
 edu\vinaenter\ApplicationInitializer.class
